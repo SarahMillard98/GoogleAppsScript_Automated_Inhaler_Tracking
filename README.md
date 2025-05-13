@@ -1,7 +1,7 @@
 # Google Apps Script for Automated Inhaler Dose Tracking
 
 I have a cat with asthma, and it can be hard to keep track of how many doses are left in her inhaler.  
-![image](https://drive.google.com/file/d/1PlOtPSUHl_TsBkvGLMg7L2ork5U-meyh/view?usp=sharing)     
+![image](https://drive.google.com/uc?export=view&id=1PlOtPSUHl_TsBkvGLMg7L2ork5U-meyh)     
 I created this script to automatically fill in the date & time the dose was given and the number of doses left in the inhaler, just by checking a checkbox.  
 ![image](https://drive.google.com/file/d/1TeyA142YTIVG6WbXZGNBQfGeLbQvzoNb/view?usp=sharing)  
 It does require a bit of setup in the sheet, though it isn't difficult.   
